@@ -13,6 +13,8 @@ variables:
 - group: devopsforai-aml-vg
 
 
+
+
 steps:
 - task: AzureResourceGroupDeployment@2
   inputs:
